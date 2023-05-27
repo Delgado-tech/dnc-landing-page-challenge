@@ -7,7 +7,7 @@
 </html>
 
 ### 🚀 Descrição do desafio:
-> O desafio foi proposto na [Escola DNC](https://www.escoladnc.com.br") no curso de [Formação em Tecnologia](https://www.escoladnc.com.br/formacao-em-tecnologia/)
+> O desafio foi proposto na [Escola DNC](https://www.escoladnc.com.br) no curso de [Formação em Tecnologia](https://www.escoladnc.com.br/formacao-em-tecnologia/)
 > com as seguintes descrisções:
 > Construa sua primeira landing page aplicando HTML, CSS e
 > criando funcionalidades com a linguagem de programação
