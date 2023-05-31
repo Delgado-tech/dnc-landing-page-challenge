@@ -74,4 +74,4 @@ Foi recriado o modelo de interface disponibilizado pelo instrutor no Figma, visa
 > ### link da planilha de informações: [google-docs](https://docs.google.com/spreadsheets/d/1Gnui41-20n-fJVx1Gexi5TC5mBcqg2ZymLUGKHe7ulk/edit?usp=sharing)
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=150&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=150&section=footer)
